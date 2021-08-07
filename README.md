@@ -2,7 +2,7 @@
 ---
 
 - 👋 Hi, I’m @Unknown-00
-- 👀 I’m interested in exploring Github
+- 👀 I’m interested in exploring ...
 - 🌱 I’m currently learning everything
 - 💞️ I’m looking to collaborate on something
 - 📫 How to reach me ...
